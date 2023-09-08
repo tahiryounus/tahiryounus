@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tahiryounus
-- 👀 I’m interested in Graphic Design
-- 🌱 I’m currently learning Freelancing
+- 👀 I’m Medical Billing and Coding Specialist
+- 🌱 I  have over 5 years experience
 - 💞️ I’m looking to collaborate on the site
-- 📫 How to reach me mtahirpti@gmail.com
+- 📫 How to reach me qurexi990@gmail.com
 
 <!---
 tahiryounus/tahiryounus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
